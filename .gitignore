@@ -1,0 +1,31 @@
+```
+# CMake build artifacts
+build/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# Executables
+*.exe
+*.out
+bin/
+
+# Object files
+*.o
+*.obj
+*.d
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.local
+*.env.*
+```
