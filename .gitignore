@@ -1,38 +1,36 @@
 ```
-# CMake build artifacts
-build/
-cmake-build*/
-
-# Compiler output
+# Compiled and build artifacts
 *.o
 *.obj
-*.a
-*.lib
-*.so
-*.dylib
-*.dll
-
-# Executables
-*.exe
 *.out
 
-# Temporary files
-*.tmp
+# Dependencies
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and temp files
 *.log
+*.tmp
 *.swp
 
-# Generated files
-client1_sin.txt
-client2_sqrt.txt
-client3_pow.txt
-server.log
-temp_repo
+# Environment
+.env
+.env.local
+*.env.*
 
-# CMake specific
-CMakeCache.txt
-CMakeFiles/
-CMakeScripts/
-Testing/
-cmake_install.cmake
-Makefile
+# Editors
+.vscode/
+.idea/
+
+# Coverage reports
+coverage/
+htmlcov/
+.coverage
+
+# Distribution artifacts
+dist/
+build/
+*.egg-info/
 ```
