@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 CMakeFiles/task_server.dir/main.cpp.o -o bin/g++/task_server 

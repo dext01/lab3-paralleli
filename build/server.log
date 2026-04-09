@@ -1,0 +1,6 @@
+Server started
+Client 3 finished, results saved to client3_pow.txt
+Client 2 finished, results saved to client2_sqrt.txt
+Client 1 finished, results saved to client1_sin.txt
+All clients finished
+Server stopped

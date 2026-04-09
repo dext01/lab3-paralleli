@@ -1,0 +1,4 @@
+/workspace/build/CMakeFiles/task_server.dir
+/workspace/build/CMakeFiles/test_results.dir
+/workspace/build/CMakeFiles/edit_cache.dir
+/workspace/build/CMakeFiles/rebuild_cache.dir

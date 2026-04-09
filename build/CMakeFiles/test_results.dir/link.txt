@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 CMakeFiles/test_results.dir/test_results.cpp.o -o bin/g++/test_results 
